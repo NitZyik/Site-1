@@ -6,4 +6,4 @@ Repositório oficial do componentecurricular de Técnicas de Programação para 
 
 #### EXEMPLO DE CONSTRUÇÃO DE UM WEBSITE COM A UTILIZAÇÃO DE HTML, CSS E JAVASCRIPT
 
-<img src="site-2/prntsite.png">
+<img src="site%202/prntsite.png">
