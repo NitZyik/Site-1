@@ -7,5 +7,3 @@ Repositório oficial do componentecurricular de Técnicas de Programação para 
 #### EXEMPLO DE CONSTRUÇÃO DE UM WEBSITE COM A UTILIZAÇÃO DE HTML, CSS E JAVASCRIPT
 
 <img src="https://github.com/NitZyik/Site-1/blob/master/prntsite2.png">
-
-<img src="https://github.com/NitZyik/Site-1/blob/master/site%202/Capturar.PNG">
